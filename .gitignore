@@ -1,0 +1,28 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore results directories
+results/
+results3/
+results33/
+results37/
+results60/
+results96/
+
+# Ignore test and temporary files
+testFn.py
+testSet_PatientID.csv
+
+# Ignore other miscellaneous files
+*.log
+*.tmp
+
+# Ignore specific Python files
+*.pyc
+
+# Ignore other specific files
+ensemble_model.png
